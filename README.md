@@ -1,4 +1,4 @@
-# 🧙 magical puller 💾
+# 🧙 Magical Puller 💾 Plex Downloader
 Magical downloader for Plex-hosted media
 Original script by Piplongrun!
 
